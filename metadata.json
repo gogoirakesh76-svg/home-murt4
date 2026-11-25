@@ -1,0 +1,6 @@
+{
+  "name": "HOME MURT",
+  "description": "Curated home living, architectural lighting, artisanal kitchenware, and smart home electronics marketplace with real-time order tracking and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
